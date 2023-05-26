@@ -1,19 +1,20 @@
 ---
-title: "Example Web Page"
+title: "Michael Erwin"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/Home-Banner-Image.jpeg
+  overlay_image: /assets/img/landscape-banner.jpg
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Michael Erwin is a student at Colorado School of Mines studying Mechanical Engineering with a focus in Manufacturing. On the side, he also enjoys working on personal technical projects."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
     title: "Custom CNC Milling Machine"
     excerpt: "Built for fabricating aluminum and steel parts."
+    url: "/portfolio/LF3DP/"
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
     alt: "placeholder image 2"
     title: "DIY Plasma Cutter"
