@@ -1,16 +1,19 @@
 ---
 title: "Reactive Singing Fish"
 excerpt: "A modified Big Mouth Billy Bass singing fish that will move along with audio from an external device."
+header:
+  image: 
+  teaser: /assets/img/projects/billy-bass/billy-bass.jpg
 gallery:
-  - url: /assets/img/placeholder1.jpg
-    image_path: assets/img/placeholder1.jpg
-    alt: "placeholder image 1"
-  - url: /assets/img/placeholder2.jpg
-    image_path: assets/img/placeholder2.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/placeholder1.jpg
-    image_path: assets/img/placeholder1.jpg
-    alt: "placeholder image 3"
+  - url: /assets/img/projects/billy-bass/billy-bass.jpg
+    image_path: assets/img/projects/billy-bass/billy-bass.jpg
+    alt: "The fish"
+  - url: /assets/img/projects/billy-bass/billy-inside.jpg
+    image_path: assets/img/projects/billy-bass/billy-inside.jpg
+    alt: "The inside of the fish"
+  - url: /assets/img/projects/billy-bass/circuit.png
+    image_path: assets/img/projects/billy-bass/circuit.png
+    alt: "Circuit diagram"
 ---
 
 This project is my final project for MEGN200 (Programming and Hardware Interface). The idea was to take a Big Mouth Billy Bass toy singing fish and make it "sing along" with any music I wanted. The fish 
