@@ -14,11 +14,11 @@ Michael is a current undergraduate student at the Colorado School of Mines who w
 
 ## Certifications
 
-* SOLIDWORKS PROFESSIONAL - Mechanical Design (C-AHTDLU2RVJ)
+* [SOLIDWORKS PROFESSIONAL - Mechanical Design](https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-AHTDLU2RVJ)
 * NIMS - Machining Level 1 - CNC Milling: Programming Setup & Operations
 * NIMS - Machining Level 1 - CNC Milling: Operations
 * OSHA 10-hour General Industry Safety and Health
-* SOLIDWORKS ASSOCIATE - Mechanical Design (C-V82RJ953YF)
+* [SOLIDWORKS ASSOCIATE - Mechanical Design](https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-V82RJ953YF)
 
 ## Technical Skills
 
