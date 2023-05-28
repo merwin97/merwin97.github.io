@@ -25,4 +25,3 @@ In the future I would like to find a way to fix this. I would also like to add s
 
 For more information please visit the [GitHub page](https://github.com/merwin97/Billy-Bass-Speaker) for this project.
 
-{% include gallery caption="Some cool pictures of my project." %}
