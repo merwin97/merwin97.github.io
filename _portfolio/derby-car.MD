@@ -4,6 +4,7 @@ excerpt: "A custom machined aluminum derby car."
 header:
   image: 
   teaser: /assets/img/placeholder1.jpg
+---
 
 This project is my final project for MEGN201 (Introduction to Mechanical Engineering: Design & Fabrication). This was a group project that I did with two other people. Together, we had to design and 
 fabricate a derby car. 
