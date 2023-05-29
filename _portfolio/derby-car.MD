@@ -26,7 +26,7 @@ fabricate a derby car.
 ##### Design
 
 The design we settled on is an I-beam style design with a small slope on the front. We chose this design for its ease of manufacture. We also included the large cut outs to save weight. 
-![Assembly drawing of the car](/assests/img/derby-car/assem-draw.pdf)
+![Assembly drawing of the car](/assests/img/derby-car/car-assem.png)
 
 ##### Construction
 
