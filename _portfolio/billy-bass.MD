@@ -16,6 +16,7 @@ gallery:
     alt: "Circuit diagram"
 ---
 
+![The Fish](/assets/img/projects/billy-bass/billy-bass.jpg)
 This project is my final project for MEGN200 (Programming and Hardware Interface). The idea was to take a Big Mouth Billy Bass toy singing fish and make it "sing along" with any music I wanted. The fish 
 works by using a Raspberry Pi Pico microcontoller to process the input from a 3.5 mm audio jack. The Pico then sends signals to the motor drive to open and close the mouth in response to the audio input. 
 The limitation of this approach is that microcontroller cannot tell the difference between lyrics and other noise. So the mouth opens and closes with peaks in the audio volume rather than with actual words. 
