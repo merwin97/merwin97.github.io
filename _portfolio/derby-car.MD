@@ -8,12 +8,6 @@ gallery:
   - url: /assets/img/projects/billy-bass/billy-bass.jpg
     image_path: assets/img/projects/billy-bass/billy-bass.jpg
     alt: "The fish"
-  - url: /assets/img/projects/billy-bass/billy-inside.jpg
-    image_path: assets/img/projects/billy-bass/billy-inside.jpg
-    alt: "The inside of the fish"
-  - url: /assets/img/projects/billy-bass/circuit.png
-    image_path: assets/img/projects/billy-bass/circuit.png
-    alt: "Circuit diagram"
 ---
 
 This project is my final project for MEGN201 (Introduction to Mechanical Engineering: Design & Fabrication). This was a group project that I did with two other people. Together, we had to design and 
@@ -32,4 +26,11 @@ fabricate a derby car.
 ##### Design
 
 The design we settled on is an I-beam style design with a small slope on the front. We chose this design for its ease of manufacture. We also included the large cut outs to save weight. 
+![Assembly drawing of the car](/assests/img/derby-car/assem-draw.pdf)
 
+##### Construction
+
+The chassis was machined from a block of 6061-T6. This was done using a Bridgeport milling machine. The skid plate was cut from a sheet of acryclic using a laser cutter. The bushings were machined from a
+rod of nylon using a lathe. This was easily the most challenging part to machine, due to the flexibility of the nylon stock. This made it tricky to machine the outer diameter of the bushings to the 
+appropriate size to create an interference fit in the chassis of the car. The spoiler was cut from a block of delrin using a Haas desktop CNC milling machine. We had to create the toolpaths for this
+operation using Inventor CAM. The axle was the easiest part. It was simply cut to length from a rod of steel using the bandsaw. The wheels were turned on the lathe from delrin round stock.
