@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Michael Erwin is a student at Colorado School of Mines studying Mechanical Engineering with a focus in Manufacturing. On the side, he also enjoys working on personal technical projects."
+excerpt: "Michael Erwin is a student at Colorado School of Mines studying Mechanical Engineering with a focus in Manufacturing. He also enjoys working on personal technical projects."
 feature_row:
   - image_path: assets/img/landscape-banner.jpg
     alt: "placeholder image 1"
