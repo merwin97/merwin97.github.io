@@ -2,7 +2,7 @@
 title: "Michael Erwin"
 layout: splash
 header:
-  overlay_color: "#000"
+  overlay_color: "#91b2ff"
   overlay_filter: "0.5"
   overlay_image: /assets/img/landscape-banner.jpg
   actions:
@@ -24,5 +24,5 @@ feature_row:
     excerpt: "Placeholder for third project."
 ---
 
-{% include feature_row %}
+<!---{% include feature_row %}-->
 
