@@ -3,7 +3,7 @@ title: "Derby Car"
 excerpt: "A custom machined aluminum derby car."
 header:
   image: 
-  teaser: /assets/img/projects/derby-car/1.jpg
+  teaser: /assets/img/projects/derby-car/4.jpg
 gallery:
   - url: /assets/img/projects/billy-bass/billy-bass.jpg
     image_path: assets/img/projects/billy-bass/billy-bass.jpg
