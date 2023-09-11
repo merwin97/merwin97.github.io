@@ -3,7 +3,7 @@ title: "Derby Car"
 excerpt: "A custom machined aluminum derby car."
 header:
   image: 
-  teaser: /assets/img/placeholder1.jpg
+  teaser: /assets/img/projects/derby-car/1.jpg
 gallery:
   - url: /assets/img/projects/billy-bass/billy-bass.jpg
     image_path: assets/img/projects/billy-bass/billy-bass.jpg
@@ -40,3 +40,6 @@ operation using Inventor CAM. The axle was the easiest part. It was simply cut t
 
 On the day of the race, four cars were placed on a sloped track and released at the same time. The two events were speed and distance. Our car managed to take second in the speed event, but the car did not 
 run straight enough to place in the distance event. Overall, our car was very successful because it did not fall apart during the race. 
+![Front view of the car](/assets/img/projects/derby-car/1.jpg)
+![Back view of the car](/assets/img/projects/derby-car/2.jpg)
+![Bottom view of the car](/assets/img/projects/derby-car/3.jpg)
