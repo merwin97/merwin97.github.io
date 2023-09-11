@@ -26,4 +26,4 @@ switch be wired and soldered individually. Planning out the wire paths and solde
 flash the microcontrollers with the QMK mechanical keyboard firmware. This firmware leaves a lot of room for customization. I got lucky and everything worked on the first try. The only problem with the 
 keyboard is that I'm really bad at typing on it. It's going to take me a lot of practice to be able to type quickly on this keyboard. 
 
-{% include gallery caption="" %}
+{% include gallery caption="Pictures of the keyboard" %}

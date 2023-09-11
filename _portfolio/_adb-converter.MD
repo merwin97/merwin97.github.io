@@ -10,4 +10,4 @@ gallery:
     alt: "The fish"
 ---
 
-Place Holder Text
+PLACE HOLDER TEXT
